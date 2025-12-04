@@ -1,7 +1,3 @@
-# ziju-future-lab
-英語：A transformative project that starts with self-rescue crowdfunding and evolves into a platform for helping others, education, and empowering zero-cost earning through web3 and innovative digital tools. Together we build a cycle of giving and community empowerment for a brighter future in Taiwan.
-
-
 【中文建議版】 Ziju-未來實驗室是一個自救起步、以協助他人成長為終極目標的轉型專案。從緊急自助型群眾募資出發，結合 web3 與數位創新工具，逐步建立一個能讓困境者獲得資助、教育與技能再生的平台。致力於打造一個公開透明、社群協作、人人可參與的台灣公益數位新生態。
 
 【English Reference Version】 Ziju-Future-Lab is a transformative project that begins with self-rescue and aims to empower and support others over time. Starting with emergency crowdfunding, we integrate web3 and innovative digital tools to gradually build a platform where those in hardship can access funding, education, and skill enhancement. Our mission is to create a transparent, collaborative, and community-driven digital public good ecosystem for a brighter future in Taiwan.
